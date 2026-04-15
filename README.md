@@ -22,7 +22,3 @@ My primary programming language is Java, and my long-term goal is to grow into a
 #### 🔗 Get in Touch
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YaoHongjie@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HJ-Yao)
-
-#### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HJ-Yao&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-Yao&layout=compact&theme=dark&hide_border=true)
